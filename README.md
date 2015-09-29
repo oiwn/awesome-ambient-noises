@@ -4,7 +4,6 @@ A curated list of awesome ambient noises for listening while programming
 ## Youtube.com
 
 + [Star Trek](#star-trek)
-+ [Doom III](#doom-iii)
 + [Mass Effect](#mass-effect)
 + [Star Wars](#star-wars)
 + [Doctor Who](#doctor-who)
@@ -24,10 +23,6 @@ A curated list of awesome ambient noises for listening while programming
 * [Star Trek: TNG Ambient Engine Noise](https://youtu.be/cqCoUvz_nwI) [1:30:38]
 * [Star Trek: Deep Space Nine Ambient Sound](https://youtu.be/k_vKrBDS4EU) [6:00:01]
 * [Star Trek: TNG Sickbay Ambient Sound](https://youtu.be/s2wAw63HFuY) [11:59:58]
-
-### Doom III
-
-* [Doom 3 Ambiance - Xtended](https://www.youtube.com/watch?v=ab_2RNaSWyc) [7:26]
 
 ### Mass Effect
 
