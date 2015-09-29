@@ -1,6 +1,7 @@
 # Contributing
 
 Your contributions are always welcome!
+Duration >= 15 minutes
 
 ## Guidelines
 
