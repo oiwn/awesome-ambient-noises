@@ -3,11 +3,11 @@ A curated list of awesome ambient noises for listening while programming
 
 ## Youtube.com
 
-+ Star Trek
-+ Mass Effect
-+ Star Wars
-+ Doctor Who
-+ Other
++ [Star Trek](#star-trek)
++ [Mass Effect](#mass-effect)
++ [Star Wars](#star-wars)
++ [Doctor Who](#doctor-who)
++ [Other](#other)
 
 ### Star Trek
 
