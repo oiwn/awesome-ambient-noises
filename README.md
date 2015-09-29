@@ -4,8 +4,8 @@ A curated list of awesome ambient noises for listening while programming
 ## Youtube.com
 
 + [Star Trek](#star-trek)
-+ [Mass Effect](#mass-effect)
 + [Star Wars](#star-wars)
++ [Mass Effect](#mass-effect)
 + [Doctor Who](#doctor-who)
 + [Other](#other)
 
@@ -24,19 +24,20 @@ A curated list of awesome ambient noises for listening while programming
 * [Star Trek: Deep Space Nine Ambient Sound](https://youtu.be/k_vKrBDS4EU) [6:00:01]
 * [Star Trek: TNG Sickbay Ambient Sound](https://youtu.be/s2wAw63HFuY) [11:59:58]
 
-### Mass Effect
-
-* [Mass Effect: Normandy Background Ambience](https://youtu.be/TIH8UA5Zb-4) [59:51]
-* [Mass Effect: Normandy Spaceship Interior Background](https://youtu.be/HfWU_y8fnTA) [1:00:00]
-* [Mass Effect: Normandy Alarm Ambience/Sound Effect](https://youtu.be/N4oY5qWVpqE) [1:00:00]
-* [Mass Effect: Normandy Ambient Spaceship Engine Sound](https://youtu.be/mopMCLbt1L0) [11:59:58]
-
 ### Start Wars
 
 * [Star Wars: Ambient Sounds/White Noise - Korriban](https://youtu.be/YlPFptEK1zM) [1:00:00]
 * [Star Wars: Coruscant Skyrise Apartment](https://youtu.be/D24_zcoiTj0) [30:00]
 * [Star Wars: Nar Shaddaa Cityscape Background](https://youtu.be/NP7O-g-azyI) [23:39]
 * [Star Wars: Imperial Star Destroyer Ambient Engine Sound](https://youtu.be/GlQ3GC_Ddmk) [11:59:59]
+ 
+
+### Mass Effect
+
+* [Mass Effect: Normandy Background Ambience](https://youtu.be/TIH8UA5Zb-4) [59:51]
+* [Mass Effect: Normandy Spaceship Interior Background](https://youtu.be/HfWU_y8fnTA) [1:00:00]
+* [Mass Effect: Normandy Alarm Ambience/Sound Effect](https://youtu.be/N4oY5qWVpqE) [1:00:00]
+* [Mass Effect: Normandy Ambient Spaceship Engine Sound](https://youtu.be/mopMCLbt1L0) [11:59:58]
 
 ### Doctor Who
 
