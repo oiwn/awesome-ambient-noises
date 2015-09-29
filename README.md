@@ -24,13 +24,12 @@ A curated list of awesome ambient noises for listening while programming
 * [Star Trek: Deep Space Nine Ambient Sound](https://youtu.be/k_vKrBDS4EU) [6:00:01]
 * [Star Trek: TNG Sickbay Ambient Sound](https://youtu.be/s2wAw63HFuY) [11:59:58]
 
-### Start Wars
+### Star Wars
 
 * [Star Wars: Ambient Sounds/White Noise - Korriban](https://youtu.be/YlPFptEK1zM) [1:00:00]
 * [Star Wars: Coruscant Skyrise Apartment](https://youtu.be/D24_zcoiTj0) [30:00]
 * [Star Wars: Nar Shaddaa Cityscape Background](https://youtu.be/NP7O-g-azyI) [23:39]
 * [Star Wars: Imperial Star Destroyer Ambient Engine Sound](https://youtu.be/GlQ3GC_Ddmk) [11:59:59]
- 
 
 ### Mass Effect
 
