@@ -54,4 +54,4 @@ A curated list of awesome ambient noises for listening while programming
 * [Space Ambient](https://youtu.be/MYqsKJAmsOE) [51:22]
 * [Alien: Nostromo Medical Bay Ambient Sound](https://youtu.be/Eta5t850U3M) [11:59:58]
 * [Programming at Home | Quiet Cy-Fy: Ambience](https://www.youtube.com/watch?v=p59UOrGjMKM) [28:19]
-
+* [Ambient Sounds: Washing Machine+Shower+Rain](https://www.youtube.com/watch?v=Aqr4FqLIhjY) [48:15]
